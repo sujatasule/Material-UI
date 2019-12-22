@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/matrieal-ui/static/css/main.1ac4d896.chunk.css",
+    "main.js": "/matrieal-ui/static/js/main.bf2dd6b1.chunk.js",
+    "main.js.map": "/matrieal-ui/static/js/main.bf2dd6b1.chunk.js.map",
+    "runtime-main.js": "/matrieal-ui/static/js/runtime-main.3a96f69a.js",
+    "runtime-main.js.map": "/matrieal-ui/static/js/runtime-main.3a96f69a.js.map",
+    "static/js/2.d687af97.chunk.js": "/matrieal-ui/static/js/2.d687af97.chunk.js",
+    "static/js/2.d687af97.chunk.js.map": "/matrieal-ui/static/js/2.d687af97.chunk.js.map",
+    "index.html": "/matrieal-ui/index.html",
+    "precache-manifest.ebd8742bd031c6db1aaa0ce7c6ba5283.js": "/matrieal-ui/precache-manifest.ebd8742bd031c6db1aaa0ce7c6ba5283.js",
+    "service-worker.js": "/matrieal-ui/service-worker.js",
+    "static/css/main.1ac4d896.chunk.css.map": "/matrieal-ui/static/css/main.1ac4d896.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a96f69a.js",
+    "static/js/2.d687af97.chunk.js",
+    "static/css/main.1ac4d896.chunk.css",
+    "static/js/main.bf2dd6b1.chunk.js"
+  ]
+}
